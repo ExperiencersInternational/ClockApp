@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Release\netcoreapp3.1\publish\DigitalClock.exe
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Release\netcoreapp3.1\publish\DigitalClock.dll
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Release\netcoreapp3.1\publish\DigitalClock.deps.json
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Release\netcoreapp3.1\publish\DigitalClock.runtimeconfig.json
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Release\netcoreapp3.1\publish\DigitalClock.pdb

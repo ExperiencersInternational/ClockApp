@@ -1,0 +1,16 @@
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.exe
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.deps.json
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.runtimeconfig.json
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.dll
+D:\Documents\Visual Studio 2019\DigitalClock\bin\Debug\netcoreapp3.1\DigitalClock.pdb
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.Form1.resources
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.dll
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.pdb
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.genruntimeconfig.cache
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2019\DigitalClock\obj\Debug\netcoreapp3.1\DigitalClock.Properties.Resources.resources

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\flynn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\flynn\\.nuget\\packages"
+    ]
+  }
+}
