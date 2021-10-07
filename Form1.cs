@@ -17,7 +17,9 @@ namespace DigitalClock
         public Form1()
         {
             InitializeComponent();
+            label2.Text = DateTime.Now.ToLongDateString();
         }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -73,6 +75,16 @@ namespace DigitalClock
 
             //update label
             label1.Text = time;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
